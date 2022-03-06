@@ -1,12 +1,12 @@
 # tyech5_temp
-usb to rom converter
+### usb to rom converter
 # Using in Debian&Ubuntu based system
 ## Installing dependence
-cd 'debian&ubuntu based'
-bash need.sh
-use python usbtoram.py to run
-or
-use python usbtoram.py to run
+### cd 'debian&ubuntu based'
+### bash need.sh
+### use python usbtoram.py to run
+### or
+### use python usbtoram.py to run
 
 
 
