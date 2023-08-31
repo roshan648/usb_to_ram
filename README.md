@@ -1,4 +1,4 @@
-# tyech5_temp
+
 ### usb to rom converter
 # Using in Debian&Ubuntu based system
 ## Installing dependence
